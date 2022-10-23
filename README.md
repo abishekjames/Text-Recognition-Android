@@ -4,7 +4,7 @@ The Mobile Vision Text API gives Android developers a powerful and reliable OCR 
 Android devices.This app will detect text and convert it into digital format.
 
 
-How to use Google Mobile Vision API in Android Studio. I have given some Idea.
+## How to use Google Mobile Vision API in Android Studio. I have given some Idea.
    
    
  1.  Go to File -> New Project. When it prompts you to select the default activity, select Empty Activity and proceed.
