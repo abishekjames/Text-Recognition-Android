@@ -21,7 +21,7 @@ Android devices.This app will detect text and convert it into digital format.
     sure your version of Google Repository is up to date. It should be at least version 26.
 
  4. Don’t forget to add permissions for accessing CAMERA and also meta-data for using OCR in AndroidManifest.xml 
-     file like this
+     file like this :
      
      <uses-permission android:name="android.permission.INTERNET"></uses-permission>
      <application>
