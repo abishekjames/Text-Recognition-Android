@@ -15,7 +15,7 @@ How to use Google Mobile Vision API in Android Studio. I have given some Idea.
     ...
     compile 'com.google.android.gms:play-services-vision:11.0.4'
     ...
-       }
+      }
  
  3. To use this library, you may need to update your installed version of Google Repository in SDK tools .Do make 
     sure your version of Google Repository is up to date. It should be at least version 26.
