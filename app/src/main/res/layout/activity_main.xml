@@ -7,7 +7,6 @@
     android:orientation="vertical"
     android:weightSum="5"
     tools:context=".MainActivity">
-
     <SurfaceView
         android:id="@+id/surfaceView"
         android:layout_width="match_parent"
